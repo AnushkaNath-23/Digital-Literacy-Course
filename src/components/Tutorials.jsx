@@ -123,7 +123,7 @@ const Tutorials = () => {
       difficulty: getTranslation('beginner'),
       rating: 4.8,
       students: 2500,
-      image: 'https://images.pexels.com/photos/147413/twitter-facebook-together-exchange-147413.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: 'https://i.pinimg.com/736x/93/b2/65/93b265c795140247db600ac92e58746a.jpg',
       steps: language === 'hi' ? [
         'व्हाट्सऐप डाउनलोड करें',
         'अकाउंट सेटअप करें',

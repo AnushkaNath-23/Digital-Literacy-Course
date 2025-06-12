@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "homepage": "https://github.com/AnushkaNath-23/Digital-Literacy-Course"
   },
   "dependencies": {
     "lucide-react": "^0.344.0",
